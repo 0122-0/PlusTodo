@@ -49,6 +49,10 @@
 
 [API 동작 캡처본](https://velog.io/@flowercat95/API-%EB%8F%99%EC%9E%91-%EC%BA%A1%EC%B2%98%EB%B3%B8)
 
+[Todo App 정리본](https://velog.io/@flowercat95/TodoApp-%EC%A0%95%EB%A6%AC%EB%B3%B8)
+
+[트러블 슈팅](https://velog.io/@flowercat95/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-null-%EA%B0%92)
+
 ---
 
 1️⃣ Lv 1 일정 CRUD
